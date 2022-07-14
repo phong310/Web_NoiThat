@@ -1,0 +1,245 @@
+
+#cten {
+	width: 1140px;
+	height: 100%;
+	padding-right: 15px;
+    padding-left: 15px;
+    margin-right: auto;
+    margin-left: auto;
+    display: flex;
+}
+/*Cột trái*/
+#left {
+	width: 73%;
+	height: 100%;
+	padding-right: 15px;
+}
+.head{
+	margin-top: 0;
+    border-bottom: 1px solid #eee;
+    padding-bottom: 5px;
+}
+.head p {
+	font-family: Averta;
+    font-size: 18px;
+    color: #4F4F4F;
+    position: relative;
+    padding: 15px 0px;
+    text-transform: uppercase;
+    font-weight: bold;
+}
+/*Phần thứ hai*/
+.head2 {
+	width: 100%;
+	height: 405px;
+	margin-top: 15px;
+	
+	background: #F7F7F7;
+}
+
+#setslidea {
+   
+    margin-top: 0px;
+    overflow: hidden;
+    position: absolute;
+}
+
+.slide_showa {
+    display: block;
+    top: -14px;
+    left: 0;
+    position: absolute;
+}
+/*Phần thứ 3*/
+#head3 {
+	width: 100%;
+	height: 230px;
+	display: flex;
+	margin-top: 20px;
+}
+
+.row p a {
+	margin: 0px;
+    font-family: Averta;
+    font-size: 18px;
+    color: #222222;
+    margin-bottom: 20px;
+    line-height: 24px;
+    font-weight: 100;
+}
+.row p a:hover {
+	color: #a20b46;
+}
+/*Phần 4*/
+.head4 {
+	width: 100%;
+	height: 250px;
+	padding-top: 20px;
+	display: flex;
+	border-top: 1px solid #eee;
+  padding-bottom: 20px;
+}
+.left4 {
+	width: 43.5%;
+	height: 100%;
+}
+.right4 {
+	width: 56.5%;
+	height: 100%;
+	padding-left: 15px;
+	padding-right: 15px;
+}
+.right4 h3 {
+	padding-bottom: 20px;
+	font-size: 22px;
+	line-height: 24px;
+	font-weight: bold;
+	color: #222222;
+	font-family: Averta;
+}
+.right4 p {
+	font-size: 17px;
+	color: #676767;
+	line-height: 24px;
+	text-align: justify;
+}
+.right4 h3 a:hover {
+	color: #a20b46;
+}
+/*Phần 5*/
+#add {
+	width: 100%;
+	padding-top: 30px;
+}
+#showadd {
+	text-align: center;
+    width: 220px;
+    height: 50px;
+    background: #a20b46;
+    border-radius: 7px;
+    float: initial;
+    line-height: 50px;
+    font-family: Averta;
+    font-size: 18px;
+    font-size: 20px;
+    margin-left: auto;
+    margin-right: auto;
+}
+#showadd a {
+	font-size: 22px;
+    color: white
+}
+/*Cột phải*/
+.cot_phai{
+	width: 27%;
+	height: 100%;
+	padding-left: 15px;
+}
+.tle{
+	margin-top: 0;
+    border-bottom: 1px solid #eee;
+    padding-bottom: 5px;
+}
+.tle p {
+	font-family: Averta;
+    font-size: 18px;
+    color: #4F4F4F;
+    position: relative;
+    padding: 15px 0px;
+    text-transform: uppercase;
+    font-weight: bold;
+}
+/*Phần 1*/
+.phai1 {
+	width: 100%;
+	height: 500px;
+	padding-top: 15px;
+}
+.phai1 li a {
+	font-size: 14px;
+	color: #757575;
+	line-height: 40px;
+	font-family: Arial;
+}
+.phai1 li a:hover {
+	color: #a20b46;
+}
+.phai1 strong {
+	float: right;
+    font-weight: normal;
+    color: #999999;
+}
+/*Phần 2*/
+#phai2{
+    border-bottom: 3px solid #f36f21;width: 150px;
+}
+#phai2 p {
+	font-family: Averta;
+    font-size: 18px;
+    color: #4F4F4F;
+    position: relative;
+    padding: 15px 0px;
+    text-transform: uppercase;
+    font-weight: bold;
+}
+/*Phần 3*/
+#phai3 {
+	width: 100%;
+	height: 240px;
+	padding-top: 15px;
+	border-bottom: 1px solid #E5E5E5;
+	padding-bottom: 10px;
+}
+#phai3 p a {
+	padding-top: 10px;
+	font-family: Averta;
+    font-size: 17px;
+    color: #4F4F4F;
+    float: left;
+    font-weight: bold;
+}
+#phai3 p a:hover {color: #ffcc00;}
+/*Phần 4*/
+#phai4 {
+	padding-top: 20px;
+	width: 100%;
+	height: 118px;
+	display: flex;
+	border-bottom: 1px solid #E5E5E5;
+}
+#lt {
+	width: 50%;
+	height: 100%;
+	padding-right: 10px;
+}
+#lt a h4 {
+	font-family: Averta;
+    font-size: 16px;
+    color: #4F4F4F;
+    line-height: 22px;
+}
+#lt a h4:hover {color: #a20b46;}
+#rt {
+	width: 50%;
+	height: 100%;
+}
+  /* css ft */
+        
+  .ht {
+    margin: 10px 80px;
+    font-weight: bold;
+    color: white;
+    float: left;
+}
+
+.pa {
+    margin-top: 10px;
+    color: white;
+    font-size: 13px;
+}
+
+.menuft {
+    margin-top: 20px;
+    font-weight: bold;
+    color: white;
+}
